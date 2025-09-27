@@ -2,8 +2,9 @@
 
 # Dependencies
 /node_modules
-/.pnp
-.pnp.js
+
+# Bun
+bun.lockb
 
 # Compiled Sanity Studio
 /dist
